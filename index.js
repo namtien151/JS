@@ -1,4 +1,4 @@
-// Lấy reference đến các phần tử DOM cần sử dụng
+
 var input = document.querySelector('input');
 var buttons = document.querySelectorAll('.numbers button');
 var equalButton = document.querySelector('.equal');
